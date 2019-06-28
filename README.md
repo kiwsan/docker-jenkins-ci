@@ -16,7 +16,7 @@
 
     $ docker-compose -f docker-compose.yml up -d
 
-### You can get the password with command, we need to get the root password only once.
+### You can get the password with command. (we need to get the root password only once.)
 
     $ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
