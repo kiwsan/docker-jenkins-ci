@@ -21,3 +21,5 @@
     $ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
 ### Let's have fun
+
+    $ curl http://localhost:8081
