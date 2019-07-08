@@ -1,6 +1,6 @@
 # 🚀 Quick start
 
-### We need to run docker inside docker. So, you can find the docker path on your environments with command:
+### We need to run docker inside docker. So, you can find the docker path on Debian 9 with command:
 
     $ which docker
 
